@@ -1,0 +1,162 @@
+{
+	"name": "IvyShell",
+	"type": "dark",
+	"colors": {
+		"focusBorder": "{{accent1}}",
+		"foreground": "{{fg0}}",
+		"descriptionForeground": "{{gray0}}",
+		"errorForeground": "{{red0}}",
+		"textLink.foreground": "{{blue0}}",
+		"textLink.activeForeground": "{{accent1}}",
+		"textBlockQuote.background": "{{bg0}}",
+		"textBlockQuote.border": "{{bg3}}",
+		"textCodeBlock.background": "{{bg1}}",
+		"textPreformat.foreground": "{{fg0}}",
+		"textSeparator.foreground": "{{gray0}}",
+		"button.background": "{{green0}}",
+		"button.foreground": "{{bg0}}",
+		"checkbox.background": "{{bg2}}",
+		"checkbox.border": "{{bg0}}",
+		"dropdown.background": "{{bg1}}",
+		"dropdown.border": "{{bg0}}",
+		"input.background": "{{bg1}}",
+		"input.border": "{{bg3}}",
+		"input.foreground": "{{fg0}}",
+		"badge.background": "{{blue0}}",
+		"progressBar.background": "{{accent1}}",
+		"titleBar.activeBackground": "{{bg0}}",
+		"titleBar.activeForeground": "{{fg0}}",
+		"activityBar.background": "{{bg0}}",
+		"activityBar.foreground": "{{accent1}}",
+		"activityBar.inactiveForeground": "{{gray0}}",
+		"sideBar.background": "{{bg0}}",
+		"sideBar.foreground": "{{fg1}}",
+		"sideBar.border": "{{bg0}}",
+		"editor.background": "{{bg1}}",
+		"editor.foreground": "{{fg0}}",
+		"editor.lineHighlightBackground": "{{bg2}}",
+		"editorCursor.foreground": "{{accent1}}",
+		"editorIndentGuide.background": "{{bg2}}",
+		"editorIndentGuide.activeBackground": "{{bg3}}",
+		"editor.selectionBackground": "{{accent1}}44",
+		"statusBar.background": "{{bg0}}",
+		"statusBar.foreground": "{{fg1}}",
+		"statusBar.border": "{{bg0}}",
+		"editorGroupHeader.tabsBackground": "{{bg0}}",
+		"tab.activeBackground": "{{bg1}}",
+		"tab.activeForeground": "{{fg0}}",
+		"tab.inactiveBackground": "{{bg0}}",
+		"tab.inactiveForeground": "{{gray0}}",
+		"tab.border": "{{bg0}}",
+		"tab.activeBorderTop": "{{accent1}}",
+		"list.hoverBackground": "{{bg2}}",
+		"list.activeSelectionBackground": "{{bg2}}",
+		"list.activeSelectionForeground": "{{fg0}}"
+	},
+	"tokenColors": [
+		{
+			"scope": [
+				"comment",
+				"punctuation.definition.comment",
+				"string.comment"
+			],
+			"settings": { "foreground": "{{gray0}}" }
+		},
+		{
+			"scope": [
+				"constant",
+				"entity.name.constant",
+				"variable.other.constant",
+				"variable.other.enummember",
+				"variable.language"
+			],
+			"settings": { "foreground": "{{blue0}}" }
+		},
+		{
+			"scope": ["entity", "entity.name"],
+			"settings": { "foreground": "{{magenta0}}" }
+		},
+		{
+			"scope": "variable.parameter.function",
+			"settings": { "foreground": "{{fg0}}" }
+		},
+		{
+			"scope": "entity.name.tag",
+			"settings": { "foreground": "{{green0}}" }
+		},
+		{
+			"scope": "keyword",
+			"settings": { "foreground": "{{red0}}" }
+		},
+		{
+			"scope": ["storage", "storage.type"],
+			"settings": { "foreground": "{{red0}}" }
+		},
+		{
+			"scope": [
+				"storage.modifier.package",
+				"storage.modifier.import",
+				"storage.type.java"
+			],
+			"settings": { "foreground": "{{fg0}}" }
+		},
+		{
+			"scope": [
+				"string",
+				"punctuation.definition.string",
+				"string punctuation.section.embedded source"
+			],
+			"settings": { "foreground": "{{cyan0}}" }
+		},
+		{
+			"scope": ["support", "meta.property-name"],
+			"settings": { "foreground": "{{blue0}}" }
+		},
+		{
+			"scope": "variable",
+			"settings": { "foreground": "{{yellow0}}" }
+		},
+		{
+			"scope": "variable.other",
+			"settings": { "foreground": "{{fg0}}" }
+		},
+		{
+			"scope": [
+				"invalid.broken",
+				"invalid.deprecated",
+				"invalid.illegal",
+				"invalid.unimplemented"
+			],
+			"settings": { "fontStyle": "italic", "foreground": "{{red0}}" }
+		},
+		{
+			"scope": "string variable",
+			"settings": { "foreground": "{{blue0}}" }
+		},
+		{
+			"scope": ["source.regexp", "string.regexp"],
+			"settings": { "foreground": "{{cyan0}}" }
+		},
+		{
+			"scope": "markup.heading",
+			"settings": { "fontStyle": "bold", "foreground": "{{blue0}}" }
+		},
+		{
+			"scope": "markup.quote",
+			"settings": { "foreground": "{{green0}}" }
+		},
+		{
+			"scope": "markup.italic",
+			"settings": { "fontStyle": "italic", "foreground": "{{fg0}}" }
+		},
+		{
+			"scope": "markup.bold",
+			"settings": { "fontStyle": "bold", "foreground": "{{fg0}}" }
+		},
+		{
+			"scope": "markup.inline.raw",
+			"settings": { "foreground": "{{blue0}}" }
+		}
+	],
+	"semanticHighlighting": true
+}

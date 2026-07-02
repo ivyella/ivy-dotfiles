@@ -1,0 +1,21 @@
+{
+	"colors": {
+		"AlternateBase": "#1c1b1a",
+		"Base": "#171716",
+		"BrightText": "#d47a7a",
+		"Button": "#252423",
+		"ButtonText": "#f2eadd",
+		"Highlight": "#988e75",
+		"HighlightedText": "#f2eadd",
+		"Link": "#d1c593",
+		"Text": "#f2eadd",
+		"ToolTipBase": "#1c1b1a",
+		"ToolTipText": "#f2eadd",
+		"Window": "#171716",
+		"WindowText": "#f2eadd",
+		"fadeAmount": 0.5,
+		"fadeColor": "#171716"
+	},
+	"name": "IvyShell",
+	"widgets": "Fusion"
+}

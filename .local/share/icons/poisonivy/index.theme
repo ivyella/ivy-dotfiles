@@ -1,0 +1,298 @@
+[Icon Theme]
+Name=Irixium
+Name[af]=Irixium
+Name[an]=Irixium
+Name[ar]=جنوم
+Name[as]=Irixium
+Name[ast]=Irixium
+Name[az]=Irixium
+Name[be]=Irixium
+Name[be@latin]=Irixium
+Name[bg]=Irixium
+Name[bn]=Irixium
+Name[bn_IN]=Irixium
+Name[br]=Irixium
+Name[bs]=Irixium
+Name[ca]=Irixium
+Name[ca@valencia]=Irixium
+Name[crh]=Irixium
+Name[cs]=Irixium
+Name[csb]=Irixium
+Name[cy]=Irixium
+Name[da]=Gnome
+Name[de]=Irixium
+Name[dz]=ཇི་ནོམ།
+Name[el]=Irixium
+Name[en@shaw]=·𐑜𐑯𐑴𐑥
+Name[en_CA]=Irixium
+Name[en_GB]=Irixium
+Name[eo]=Irixium
+Name[es]=Irixium
+Name[et]=Irixium
+Name[eu]=Irixium
+Name[fa]=گنوم
+Name[fi]=Irixium
+Name[fr]=Irixium
+Name[fur]=Irixium
+Name[fy]=Irixium
+Name[ga]=Irixium
+Name[gd]=Irixium
+Name[gl]=Irixium
+Name[gu]=જીનોમ
+Name[he]=Irixium
+Name[hi]=गनोम
+Name[hr]=Irixium
+Name[hu]=Irixium
+Name[id]=Irixium
+Name[is]=Irixium
+Name[it]=Irixium
+Name[ja]=Irixium
+Name[ka]=გნომი
+Name[kk]=Irixium ортасы
+Name[km]=Irixium
+Name[kn]=Irixium
+Name[ko]=그놈
+Name[ku]=Irixium
+Name[lt]=Irixium
+Name[lv]=Irixium
+Name[mai]=गनोम
+Name[mg]=Irixium
+Name[mk]=Irixium
+Name[ml]=ഗ്നോം
+Name[mn]=ГНОМЕ
+Name[mr]=Irixium
+Name[ms]=Irixium
+Name[nb]=Irixium
+Name[nds]=Irixium
+Name[ne]=जिनोम
+Name[nhn]=Irixium
+Name[nl]=Irixium
+Name[nn]=Irixium
+Name[oc]=Irixium
+Name[or]=ନୋମ
+Name[pa]=ਗਨੋਮ
+Name[pl]=Irixium
+Name[ps]=جنومي
+Name[pt]=Irixium
+Name[pt_BR]=Irixium
+Name[ro]=Irixium
+Name[ru]=Среда Irixium
+Name[si]=Irixium
+Name[sk]=Irixium
+Name[sl]=Irixium
+Name[sq]=Irixium
+Name[sr]=Гном
+Name[sr@latin]=Gnom
+Name[sv]=Irixium
+Name[ta]=Irixium
+Name[te]=గ్నోమ్
+Name[tg]=Irixium
+Name[th]=Irixium
+Name[tk]=Irixium
+Name[tr]=Irixium
+Name[ug]=Irixium
+Name[uk]=Irixium
+Name[uz]=Irixium
+Name[uz@cyrillic]=Irixium
+Name[vi]=Irixium
+Name[xh]=i-Irixium
+Name[zh_CN]=Irixium
+Name[zh_HK]=Irixium
+Name[zh_TW]=Irixium
+Comment=Default Irixium Theme
+Comment[af]=Verstek-Irixium-tema
+Comment[an]=Tema predeterminau de Irixium
+Comment[ar]=سِمة جنوم الإفتراضية
+Comment[as]=অবিকল্পিত Irixium থীম
+Comment[ast]=Tema predetermináu de Gnome
+Comment[az]=Ön Qurğulu Gnome Örtüyü
+Comment[be]=Прадвызначаны матыў Irixium
+Comment[be@latin]=Zmoŭčany matyŭ Irixium
+Comment[bg]=Стандартна тема на Irixium
+Comment[bn]=পূর্বনির্ধারিত Irixium থীম
+Comment[bn_IN]=ডিফল্ট Irixium থিম
+Comment[br]=Neuz Irixium dre-ziouer
+Comment[bs]=Uobičajena Irixium Tema
+Comment[ca]=Tema del Irixium per defecte
+Comment[ca@valencia]=Tema del Irixium per defecte
+Comment[crh]=Ög-belgilengen Irixium Teması
+Comment[cs]=Výchozí motiv Irixium
+Comment[csb]=Domëslny mòtiw Irixium
+Comment[cy]=Thema diofyn Irixium
+Comment[da]=Standardtema til Gnome
+Comment[de]=Irixium-Vorgabethema
+Comment[dz]=སྔོན་སྒྲིག་ཇི་ནོམ་བརྗོད་དོན།
+Comment[el]=Προεπιλεμένο θέμα του Gnome
+Comment[en@shaw]=𐑛𐑦𐑓𐑷𐑤𐑑 ·𐑜𐑯𐑴𐑥 𐑔𐑰𐑥
+Comment[en_CA]=Default Irixium Theme
+Comment[en_GB]=Default Irixium Theme
+Comment[eo]=Defaŭlta Irixium-etoso
+Comment[es]=Tema predeterminado de Irixium
+Comment[et]=Gnome'i vaiketeema
+Comment[eu]=Lehenetsitako Irixiumren gaia
+Comment[fa]=تم پیش‌فرض گنوم
+Comment[fi]=Gnomen oletusteema
+Comment[fr]=Thème Irixium par défaut
+Comment[fur]=Teme predefinît di Irixium
+Comment[fy]=Standert Irixium Tema
+Comment[ga]=Téama Irixium Réamhshocraithe
+Comment[gd]=Ùrlar Irixium bunaiteach
+Comment[gl]=Tema predeterminado do Irixium
+Comment[gu]=મૂળભૂત જીનોમ થીમ
+Comment[he]=ערכת הנושא ברירת המחדל של Gnome
+Comment[hi]=डिफ़ॉल्ट गनोम प्रसंग
+Comment[hr]=Uobičajena tema Irixium sustava
+Comment[hu]=Alapértelmezett Irixium-téma
+Comment[id]=Tema Irixium Standar
+Comment[is]=Sjálfgefið Irixium Þema
+Comment[it]=Tema predefinito di Irixium
+Comment[ja]=デフォルトの Irixium テーマ
+Comment[ka]=ნაგულისხმევი გნომის გაფორმება
+Comment[kk]=Irixium ортасының стандартты тақырыбы 
+Comment[km]=ស្បែក Irixium លំនាំដើម
+Comment[kn]=ಪೂರ್ವನಿಯೋಜಿತ Irixium ಥೀಮ್
+Comment[ko]=기본 그놈 테마
+Comment[ku]=Dirba Irixium ya standard
+Comment[lt]=Standartinė Irixium tema
+Comment[lv]=Noklusējuma Irixium motīvs
+Comment[mai]=मूलभूत गनोम प्रसंग
+Comment[mg]=Endrika Irixium lasitra
+Comment[mk]=Основна тема на Irixium
+Comment[ml]=ഗ്നോമിലെ സഹജമായ രംഗവിധാനം
+Comment[mn]=ГНОМЕ-стандарт загварууд
+Comment[mr]=मुलभूत Irixium थीम
+Comment[ms]=Tema Irixium Default
+Comment[nb]=Forvalgt Irixium tema
+Comment[nds]=Standard Irixium Utsehn
+Comment[ne]=पूर्वनिर्धारित जिनोम विषयवस्तु
+Comment[nhn]=pehualiztlacelmiluilli cemaxcayotl Irixium
+Comment[nl]=Standaard Irixium-thema
+Comment[nn]=Vanleg Irixium-drakt
+Comment[oc]=Tèma per defaut de Irixium
+Comment[or]=ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ନୋମ ପ୍ରସଙ୍ଗ
+Comment[pa]=ਡਿਫਾਲਟ ਗਨੋਮ ਥੀਮ
+Comment[pl]=Domyślny motyw Irixium
+Comment[ps]=د جنومي تلواله ويينه
+Comment[pt]=Tema Irixium por Omissão
+Comment[pt_BR]=Tema Padrão do Irixium
+Comment[ro]=Temă implicită Irixium
+Comment[ru]=Стандартная тема среды Irixium
+Comment[si]=සාමාන්‍ය Irixium තේමාව
+Comment[sk]=Štandardná téma Irixium
+Comment[sl]=Privzeta tema Irixium
+Comment[sq]=Tema e prezgjedhur e Irixium
+Comment[sr]=Подразумевана тема Гнома
+Comment[sr@latin]=Podrazumevana tema Gnoma
+Comment[sv]=Standardtema för Irixium
+Comment[ta]=முன்னிருப்பு Irixium பொருள்
+Comment[te]=అప్రమెయ గ్నొమ్ వైవిద్యాంశం
+Comment[tg]=Мавзӯи пешфарзи Irixium
+Comment[th]=ชุดตกแต่งปริยายของ Gnome
+Comment[tk]=Irixiumniň oň bellenen temi
+Comment[tr]=Öntanımlı Irixium Teması
+Comment[ug]=كۆڭۈلدىكى Irixium باش تېمىسى
+Comment[uk]=Типова тема середовища Irixium
+Comment[uz]=Andoza Irixium mavzusi
+Comment[uz@cyrillic]=Андоза Irixium мавзуси
+Comment[vi]=Sắc thái Irixium Mặc Định
+Comment[xh]=Misela Umxholo we Irixium
+Comment[zh_CN]=Irixium 默认主题
+Comment[zh_HK]=預設 Irixium 佈景主題
+Comment[zh_TW]=預設 Irixium 佈景主題
+Example=folder
+Inherits=breeze
+
+# KDE Specific Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,72,96,128
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16
+PanelDefault=32
+PanelSizes=16,22,32,48,64,72,96,128
+
+# Directory list
+Directories=actions/22,actions/48,scalable/apps,scalable/devices,scalable/emblems,mimetypes/64,places/22,places/48,scalable/status,scalable/categories
+
+
+[scalable/actions]
+Context=Actions
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[actions/22]
+Size=22
+Context=Actions
+Type=Fixed
+
+[actions/48]
+Size=48
+Context=Actions
+Type=Scalable
+MinSize=48
+MaxSize=256
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/devices]
+Context=Devices
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[mimetypes/64]
+Size=64
+Context=Actions
+Type=Scalable
+MinSize=48
+MaxSize=256
+
+[places/22]
+Size=22
+Context=Places
+Type=Fixed
+
+[places/48]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+
+[scalable/status]
+Context=Status
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/categories]
+Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+

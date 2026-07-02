@@ -1,0 +1,592 @@
+[Icon Theme]
+Name=Irixium
+Name[af]=Irixium
+Name[an]=Irixium
+Name[ar]=جنوم
+Name[as]=Irixium
+Name[ast]=Irixium
+Name[az]=Irixium
+Name[be]=Irixium
+Name[be@latin]=Irixium
+Name[bg]=Irixium
+Name[bn]=Irixium
+Name[bn_IN]=Irixium
+Name[br]=Irixium
+Name[bs]=Irixium
+Name[ca]=Irixium
+Name[ca@valencia]=Irixium
+Name[crh]=Irixium
+Name[cs]=Irixium
+Name[csb]=Irixium
+Name[cy]=Irixium
+Name[da]=Gnome
+Name[de]=Irixium
+Name[dz]=ཇི་ནོམ།
+Name[el]=Irixium
+Name[en@shaw]=·𐑜𐑯𐑴𐑥
+Name[en_CA]=Irixium
+Name[en_GB]=Irixium
+Name[eo]=Irixium
+Name[es]=Irixium
+Name[et]=Irixium
+Name[eu]=Irixium
+Name[fa]=گنوم
+Name[fi]=Irixium
+Name[fr]=Irixium
+Name[fur]=Irixium
+Name[fy]=Irixium
+Name[ga]=Irixium
+Name[gd]=Irixium
+Name[gl]=Irixium
+Name[gu]=જીનોમ
+Name[he]=Irixium
+Name[hi]=गनोम
+Name[hr]=Irixium
+Name[hu]=Irixium
+Name[id]=Irixium
+Name[is]=Irixium
+Name[it]=Irixium
+Name[ja]=Irixium
+Name[ka]=გნომი
+Name[kk]=Irixium ортасы
+Name[km]=Irixium
+Name[kn]=Irixium
+Name[ko]=그놈
+Name[ku]=Irixium
+Name[lt]=Irixium
+Name[lv]=Irixium
+Name[mai]=गनोम
+Name[mg]=Irixium
+Name[mk]=Irixium
+Name[ml]=ഗ്നോം
+Name[mn]=ГНОМЕ
+Name[mr]=Irixium
+Name[ms]=Irixium
+Name[nb]=Irixium
+Name[nds]=Irixium
+Name[ne]=जिनोम
+Name[nhn]=Irixium
+Name[nl]=Irixium
+Name[nn]=Irixium
+Name[oc]=Irixium
+Name[or]=ନୋମ
+Name[pa]=ਗਨੋਮ
+Name[pl]=Irixium
+Name[ps]=جنومي
+Name[pt]=Irixium
+Name[pt_BR]=Irixium
+Name[ro]=Irixium
+Name[ru]=Среда Irixium
+Name[si]=Irixium
+Name[sk]=Irixium
+Name[sl]=Irixium
+Name[sq]=Irixium
+Name[sr]=Гном
+Name[sr@latin]=Gnom
+Name[sv]=Irixium
+Name[ta]=Irixium
+Name[te]=గ్నోమ్
+Name[tg]=Irixium
+Name[th]=Irixium
+Name[tk]=Irixium
+Name[tr]=Irixium
+Name[ug]=Irixium
+Name[uk]=Irixium
+Name[uz]=Irixium
+Name[uz@cyrillic]=Irixium
+Name[vi]=Irixium
+Name[xh]=i-Irixium
+Name[zh_CN]=Irixium
+Name[zh_HK]=Irixium
+Name[zh_TW]=Irixium
+Comment=Default Irixium Theme
+Comment[af]=Verstek-Irixium-tema
+Comment[an]=Tema predeterminau de Irixium
+Comment[ar]=سِمة جنوم الإفتراضية
+Comment[as]=অবিকল্পিত Irixium থীম
+Comment[ast]=Tema predetermináu de Gnome
+Comment[az]=Ön Qurğulu Gnome Örtüyü
+Comment[be]=Прадвызначаны матыў Irixium
+Comment[be@latin]=Zmoŭčany matyŭ Irixium
+Comment[bg]=Стандартна тема на Irixium
+Comment[bn]=পূর্বনির্ধারিত Irixium থীম
+Comment[bn_IN]=ডিফল্ট Irixium থিম
+Comment[br]=Neuz Irixium dre-ziouer
+Comment[bs]=Uobičajena Irixium Tema
+Comment[ca]=Tema del Irixium per defecte
+Comment[ca@valencia]=Tema del Irixium per defecte
+Comment[crh]=Ög-belgilengen Irixium Teması
+Comment[cs]=Výchozí motiv Irixium
+Comment[csb]=Domëslny mòtiw Irixium
+Comment[cy]=Thema diofyn Irixium
+Comment[da]=Standardtema til Gnome
+Comment[de]=Irixium-Vorgabethema
+Comment[dz]=སྔོན་སྒྲིག་ཇི་ནོམ་བརྗོད་དོན།
+Comment[el]=Προεπιλεμένο θέμα του Gnome
+Comment[en@shaw]=𐑛𐑦𐑓𐑷𐑤𐑑 ·𐑜𐑯𐑴𐑥 𐑔𐑰𐑥
+Comment[en_CA]=Default Irixium Theme
+Comment[en_GB]=Default Irixium Theme
+Comment[eo]=Defaŭlta Irixium-etoso
+Comment[es]=Tema predeterminado de Irixium
+Comment[et]=Gnome'i vaiketeema
+Comment[eu]=Lehenetsitako Irixiumren gaia
+Comment[fa]=تم پیش‌فرض گنوم
+Comment[fi]=Gnomen oletusteema
+Comment[fr]=Thème Irixium par défaut
+Comment[fur]=Teme predefinît di Irixium
+Comment[fy]=Standert Irixium Tema
+Comment[ga]=Téama Irixium Réamhshocraithe
+Comment[gd]=Ùrlar Irixium bunaiteach
+Comment[gl]=Tema predeterminado do Irixium
+Comment[gu]=મૂળભૂત જીનોમ થીમ
+Comment[he]=ערכת הנושא ברירת המחדל של Gnome
+Comment[hi]=डिफ़ॉल्ट गनोम प्रसंग
+Comment[hr]=Uobičajena tema Irixium sustava
+Comment[hu]=Alapértelmezett Irixium-téma
+Comment[id]=Tema Irixium Standar
+Comment[is]=Sjálfgefið Irixium Þema
+Comment[it]=Tema predefinito di Irixium
+Comment[ja]=デフォルトの Irixium テーマ
+Comment[ka]=ნაგულისხმევი გნომის გაფორმება
+Comment[kk]=Irixium ортасының стандартты тақырыбы 
+Comment[km]=ស្បែក Irixium លំនាំដើម
+Comment[kn]=ಪೂರ್ವನಿಯೋಜಿತ Irixium ಥೀಮ್
+Comment[ko]=기본 그놈 테마
+Comment[ku]=Dirba Irixium ya standard
+Comment[lt]=Standartinė Irixium tema
+Comment[lv]=Noklusējuma Irixium motīvs
+Comment[mai]=मूलभूत गनोम प्रसंग
+Comment[mg]=Endrika Irixium lasitra
+Comment[mk]=Основна тема на Irixium
+Comment[ml]=ഗ്നോമിലെ സഹജമായ രംഗവിധാനം
+Comment[mn]=ГНОМЕ-стандарт загварууд
+Comment[mr]=मुलभूत Irixium थीम
+Comment[ms]=Tema Irixium Default
+Comment[nb]=Forvalgt Irixium tema
+Comment[nds]=Standard Irixium Utsehn
+Comment[ne]=पूर्वनिर्धारित जिनोम विषयवस्तु
+Comment[nhn]=pehualiztlacelmiluilli cemaxcayotl Irixium
+Comment[nl]=Standaard Irixium-thema
+Comment[nn]=Vanleg Irixium-drakt
+Comment[oc]=Tèma per defaut de Irixium
+Comment[or]=ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ନୋମ ପ୍ରସଙ୍ଗ
+Comment[pa]=ਡਿਫਾਲਟ ਗਨੋਮ ਥੀਮ
+Comment[pl]=Domyślny motyw Irixium
+Comment[ps]=د جنومي تلواله ويينه
+Comment[pt]=Tema Irixium por Omissão
+Comment[pt_BR]=Tema Padrão do Irixium
+Comment[ro]=Temă implicită Irixium
+Comment[ru]=Стандартная тема среды Irixium
+Comment[si]=සාමාන්‍ය Irixium තේමාව
+Comment[sk]=Štandardná téma Irixium
+Comment[sl]=Privzeta tema Irixium
+Comment[sq]=Tema e prezgjedhur e Irixium
+Comment[sr]=Подразумевана тема Гнома
+Comment[sr@latin]=Podrazumevana tema Gnoma
+Comment[sv]=Standardtema för Irixium
+Comment[ta]=முன்னிருப்பு Irixium பொருள்
+Comment[te]=అప్రమెయ గ్నొమ్ వైవిద్యాంశం
+Comment[tg]=Мавзӯи пешфарзи Irixium
+Comment[th]=ชุดตกแต่งปริยายของ Gnome
+Comment[tk]=Irixiumniň oň bellenen temi
+Comment[tr]=Öntanımlı Irixium Teması
+Comment[ug]=كۆڭۈلدىكى Irixium باش تېمىسى
+Comment[uk]=Типова тема середовища Irixium
+Comment[uz]=Andoza Irixium mavzusi
+Comment[uz@cyrillic]=Андоза Irixium мавзуси
+Comment[vi]=Sắc thái Irixium Mặc Định
+Comment[xh]=Misela Umxholo we Irixium
+Comment[zh_CN]=Irixium 默认主题
+Comment[zh_HK]=預設 Irixium 佈景主題
+Comment[zh_TW]=預設 Irixium 佈景主題
+Example=folder
+Inherits=Oxygen,breeze
+
+# KDE Specific Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,72,96,128
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16
+PanelDefault=32
+PanelSizes=16,22,32,48,64,72,96,128
+
+# Directory list
+Directories=8x8/emblems,16x16/actions,16x16/animations,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/emotes,16x16/mimetypes,16x16/places,16x16/status,22x22/actions,22x22/animations,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/emotes,22x22/mimetypes,22x22/places,22x22/status,24x24/actions,24x24/apps,24x24/categories,24x24/devices,24x24/emblems,24x24/emotes,24x24/mimetypes,24x24/places,24x24/status,32x32/actions,32x32/animations,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/emotes,32x32/mimetypes,32x32/places,32x32/status,48x48/actions,48x48/animations,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/emotes,48x48/mimetypes,48x48/places,48x48/status,256x256/actions,256x256/apps,256x256/categories,256x256/devices,256x256/emblems,256x256/emotes,256x256/mimetypes,256x256/places,256x256/status,scalable/actions,scalable/apps,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/categories
+
+[8x8/emblems]
+Context=Emblems
+Size=8
+Type=Fixed
+
+[16x16/actions]
+Context=Actions
+Size=16
+Type=Fixed
+
+[16x16/animations]
+Context=Animations
+Size=16
+Type=Fixed
+
+[16x16/apps]
+Context=Applications
+Size=16
+Type=Fixed
+
+[16x16/categories]
+Context=Categories
+Size=16
+Type=Fixed
+
+[16x16/devices]
+Context=Devices
+Size=16
+Type=Fixed
+
+[16x16/emblems]
+Context=Emblems
+Size=16
+Type=Fixed
+
+[16x16/emotes]
+Context=Emotes
+Size=16
+Type=Fixed
+
+[16x16/mimetypes]
+Context=MimeTypes
+Size=16
+Type=Fixed
+
+[16x16/places]
+Context=Places
+Size=16
+Type=Fixed
+
+[16x16/status]
+Context=Status
+Size=16
+Type=Fixed
+
+[22x22/actions]
+Context=Actions
+Size=22
+Type=Fixed
+
+[22x22/animations]
+Context=Animations
+Size=22
+Type=Fixed
+
+[22x22/apps]
+Context=Applications
+Size=22
+Type=Fixed
+
+[22x22/categories]
+Context=Categories
+Size=22
+Type=Fixed
+
+[22x22/devices]
+Context=Devices
+Size=22
+Type=Fixed
+
+[22x22/emblems]
+Context=Emblems
+Size=22
+Type=Fixed
+
+[22x22/emotes]
+Context=Emotes
+Size=22
+Type=Fixed
+
+[22x22/mimetypes]
+Context=MimeTypes
+Size=22
+Type=Fixed
+
+[22x22/places]
+Context=Places
+Size=22
+Type=Fixed
+
+[22x22/status]
+Context=Status
+Size=22
+Type=Fixed
+
+[24x24/actions]
+Context=Actions
+Size=24
+Type=Fixed
+
+[24x24/apps]
+Context=Applications
+Size=24
+Type=Fixed
+
+[24x24/categories]
+Context=Categories
+Size=24
+Type=Fixed
+
+[24x24/devices]
+Context=Devices
+Size=24
+Type=Fixed
+
+[24x24/emblems]
+Context=Emblems
+Size=24
+Type=Fixed
+
+[24x24/emotes]
+Context=Emotes
+Size=24
+Type=Fixed
+
+[24x24/mimetypes]
+Context=MimeTypes
+Size=24
+Type=Fixed
+
+[24x24/places]
+Context=Places
+Size=24
+Type=Fixed
+
+[24x24/status]
+Context=Status
+Size=24
+Type=Fixed
+
+[32x32/actions]
+Context=Actions
+Size=32
+Type=Fixed
+
+[32x32/animations]
+Context=Animations
+Size=32
+Type=Fixed
+
+[32x32/apps]
+Context=Applications
+Size=32
+Type=Fixed
+
+[32x32/categories]
+Context=Categories
+Size=32
+Type=Fixed
+
+[32x32/devices]
+Context=Devices
+Size=32
+Type=Fixed
+
+[32x32/emblems]
+Context=Emblems
+Size=32
+Type=Fixed
+
+[32x32/emotes]
+Context=Emotes
+Size=32
+Type=Fixed
+
+[32x32/mimetypes]
+Context=MimeTypes
+Size=32
+Type=Fixed
+
+[32x32/places]
+Context=Places
+Size=32
+Type=Fixed
+
+[32x32/status]
+Context=Status
+Size=32
+Type=Fixed
+
+[48x48/actions]
+Context=Actions
+Size=48
+Type=Fixed
+
+[48x48/animations]
+Context=Animations
+Size=48
+Type=Fixed
+
+[48x48/apps]
+Context=Applications
+Size=48
+Type=Fixed
+
+[48x48/categories]
+Context=Categories
+Size=48
+Type=Fixed
+
+[48x48/devices]
+Context=Devices
+Size=48
+Type=Fixed
+
+[48x48/emblems]
+Context=Emblems
+Size=48
+Type=Fixed
+
+[48x48/emotes]
+Context=Emotes
+Size=48
+Type=Fixed
+
+[48x48/mimetypes]
+Context=MimeTypes
+Size=48
+Type=Fixed
+
+[48x48/places]
+Context=Places
+Size=48
+Type=Fixed
+
+[48x48/status]
+Context=Status
+Size=48
+Type=Fixed
+
+[256x256/actions]
+Context=Actions
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/apps]
+Context=Applications
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/categories]
+Context=Categories
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/devices]
+Context=Devices
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/emblems]
+Context=Emblems
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/emotes]
+Context=Emotes
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/mimetypes]
+Context=MimeTypes
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/places]
+Context=Places
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[256x256/status]
+Context=Status
+Size=256
+MinSize=56
+MaxSize=512
+Type=Scalable
+
+[scalable/actions]
+Context=Actions
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/devices]
+Context=Devices
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/emblems]
+Context=Emblems
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/mimetypes]
+Context=MimeTypes
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/places]
+Context=Places
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/status]
+Context=Status
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/categories]
+Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+

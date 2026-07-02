@@ -1,0 +1,22 @@
+// Main Config
+
+// Startup programs and other environment-related config
+include "environment.kdl"
+
+// Input devices
+include "inputs.kdl"
+
+// Keybinds
+include "binds.kdl"
+
+// Monitor config
+include "monitors.kdl"
+
+// Window Rules
+include "windowrules.kdl"
+
+// Matugen colors for borders
+include "colors.kdl"
+
+// Appearence
+include "appearance.kdl"

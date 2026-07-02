@@ -1,0 +1,38 @@
+symlinks {
+    kitty         source="~/ivyos/ivyshell/.config/kitty"                                   target="~/.config/kitty"
+    fish          source="~/ivyos/ivyshell/.config/fish"                                    target="~/.config/fish"
+    niri          source="~/ivyos/ivyshell/.config/niri"                                    target="~/.config/niri"
+    starship      source="~/ivyos/ivyshell/.config/starship"                                target="~/.config/starship"
+    fastfetch     source="~/ivyos/ivyshell/.config/fastfetch"                               target="~/.config/fastfetch"
+    qt5ct         source="~/ivyos/ivyshell/.config/qt5ct"                                   target="~/.config/qt5ct"
+    qt6ct         source="~/ivyos/ivyshell/.config/qt6ct"                                   target="~/.config/qt6ct"
+    zed           source="~/ivyos/ivyshell/.config/zed"                                     target="~/.config/zed"
+    helix         source="~/ivyos/ivyshell/.config/helix"                                   target="~/.config/helix"
+    yazi          source="~/ivyos/ivyshell/.config/yazi"                                    target="~/.config/yazi"
+    ivyshell      source="~/ivyos/ivyshell/.config/ivyshell"                                target="~/.config/ivyshell"
+    gtk-3-0       source="~/ivyos/ivyshell/.config/gtk-3.0"                                 target="~/.config/gtk-3.0"
+    gtk-4-0       source="~/ivyos/ivyshell/.config/gtk-4.0"                                 target="~/.config/gtk-4.0"
+    quickshell    source="~/ivyshell/src/ui/"                                               target="~/.config/quickshell"
+    colorSchemes  source="~/ivyos/ivyshell/.local/share/color-schemes"                      target="~/.local/share/color-schemes"
+    prismLauncher source="~/ivyos/ivyshell/.local/share/PrismLauncher/themes"               target="~/.local/share/PrismLauncher/themes"
+    icons         source="~/ivyos/ivyshell/themes/icons/poisonivy"                          target="~/.local/share/icons/poisonivy"
+    vscodeExt     source="~/ivyos/ivyshell/.vscode-oss/extensions/ivyella.ivy-theme-1.0.0"  target="~/.vscode-oss/extensions/ivyella.ivy-theme-1.0.0"
+}
+
+themes {
+    target "gtk-4-0-colors"   template="gtk-colors.css"         output="~/.config/gtk-4.0/colors.css"
+    target "gtk-3-0-colors"   template="gtk-colors.css"         output="~/.config/gtk-3.0/colors.css"
+    target "niri-colors"      template="niri-colors.kdl"        output="~/.config/niri/colors.kdl"
+    target "kitty-colors"     template="kitty-colors.conf"      output="~/.config/kitty/current-theme.conf"
+    target "starship-colors"  template="starship-colors.toml"   output="~/.config/starship.toml"
+    target "prism-theme-json" template="prism-theme.json"       output="~/.local/share/PrismLauncher/themes/IvyShell/theme.json"
+    target "prism-theme-css"  template="prism-theme.css"        output="~/.local/share/PrismLauncher/themes/IvyShell/themeStyle.css"
+    target "qt-colors"        template="qt-colors.colors"       output="~/.local/share/color-schemes/IvyShell.colors"
+    target "helix-theme"      template="helix-theme.toml"       output="~/.config/helix/themes/dynamic.toml"
+    target "vscode-theme"     template="vscode-theme.json"      output="~/.vscode-oss/extensions/ivyella.ivy-theme-1.0.0/themes/ivy.json"
+    target "ivyshell-css"     template="ivyshell.css"           output="~/.config/ivyshell/theme.css"
+}
+
+services {
+    quickshell exec="/usr/bin/qs" restart="on-failure" partOf="graphical-session.target" wantedBy="graphical-session.target"
+}

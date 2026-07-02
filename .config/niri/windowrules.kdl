@@ -1,0 +1,52 @@
+// Window rules
+
+// Hide Programs from Screenshare
+window-rule {
+    match app-id=r#"^discord$"#
+    block-out-from "screen-capture"
+}
+window-rule {
+    match app-id=r#"^vesktop$"#
+    block-out-from "screen-capture"
+}
+/*window-rule {
+    match app-id=r#"^librewolf$"#
+    block-out-from "screen-capture"
+} */
+
+// Browser picture-in-picture
+window-rule {
+    match app-id=r#"zen$"# title="^Picture-in-Picture$"
+    open-floating true
+}
+
+// Program-specific border radius
+window-rule {
+    match app-id="krita"
+    clip-to-geometry false
+    geometry-corner-radius 0
+}
+
+window-rule {
+    match app-id="^kitty$"
+
+    background-effect {
+        blur true
+        xray true
+    }
+}
+
+window-rule {
+    match app-id="org.gnome."
+    background-effect {
+        blur true
+        xray true
+    }
+}
+window-rule {
+    match app-id="com.github"
+    background-effect {
+        blur true
+        xray true
+    }
+}

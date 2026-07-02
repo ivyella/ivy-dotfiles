@@ -1,0 +1,16 @@
+{
+    "borderRadius": 12,
+    "font": {
+        "mono": "JetBrains Mono",
+        "scale": 1,
+        "ui": "IBM Plex Serif",
+        "weight": 400
+    },
+    "nightLight": {
+        "temp": 3500
+    },
+    "theme": "/home/ivy/.config/ivylink/themes/colors/Catppuccin.json",
+    "uiScale": 1,
+    "variant": "mocha",
+    "wallpaper": "/home/ivy/ivyos/ivyshell/themes/wallpapers/a_building_with_signs_and_bicycles_outside.jpg"
+}

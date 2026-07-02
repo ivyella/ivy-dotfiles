@@ -1,0 +1,5 @@
+QToolTip {
+    color: {{fg0}};
+    background-color: {{accent0}};
+    border: 1px solid {{border0}};
+}

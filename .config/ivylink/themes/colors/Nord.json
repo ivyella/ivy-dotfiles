@@ -1,0 +1,42 @@
+{
+  "pack": "Nord",
+  "variants": {
+    "dark": {
+      "name": "Nord",
+      "color": {
+        "bg0": "#2e3440",
+        "bg1": "#3b4252",
+        "bg2": "#434c5e",
+        "bg3": "#4c566a",
+        "bg4": "#5a657a",
+        "fg0": "#eceff4",
+        "fg1": "#e5e9f0",
+        "fg2": "#d8dee9",
+        "accent0": "#81a1c1",
+        "accent1": "#88c0d0",
+        "border0": "#3b4252",
+        "border1": "#4c566a",
+        "gray0": "#4c566a",
+        "gray1": "#434c5e",
+        "white": "#eceff4",
+        "black": "#2e3440",
+        "yellow0": "#ebcb8b",
+        "yellow1": "#f0d9a0",
+        "orange0": "#d08770",
+        "orange1": "#e09880",
+        "red0": "#bf616a",
+        "red1": "#cf717a",
+        "magenta0": "#b48ead",
+        "magenta1": "#c49ebd",
+        "violet0": "#9a7ebf",
+        "violet1": "#b48ead",
+        "blue0": "#5e81ac",
+        "blue1": "#81a1c1",
+        "cyan0": "#8fbcbb",
+        "cyan1": "#88c0d0",
+        "green0": "#a3be8c",
+        "green1": "#b3ce9c"
+      }
+    }
+  }
+}

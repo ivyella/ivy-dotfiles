@@ -1,0 +1,22 @@
+// Inputs
+
+input {
+    keyboard {
+        xkb {
+            options "altwin:swap_lalt_lwin"
+        }
+        numlock
+    }
+    tablet {
+        map-to-output "DP-1" // HDMI-A-1 | DP-1
+    }
+    touchpad {
+        tap
+        natural-scroll
+    }
+    mouse {
+        accel-profile "flat"
+
+    }
+    warp-mouse-to-focus
+}

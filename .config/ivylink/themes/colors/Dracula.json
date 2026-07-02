@@ -1,0 +1,42 @@
+{
+  "pack": "Dracula",
+  "variants": {
+    "default": {
+      "name": "Dracula",
+      "color": {
+        "bg0": "#191a21",
+        "bg1": "#21222c",
+        "bg2": "#282a36",
+        "bg3": "#343746",
+        "bg4": "#44475a",
+        "fg0": "#f8f8f2",
+        "fg1": "#bfbfbf",
+        "fg2": "#6272a4",
+        "accent0": "#bd93f9",
+        "accent1": "#ff79c6",
+        "border0": "#44475a",
+        "border1": "#6272a4",
+        "gray0": "#44475a",
+        "gray1": "#6272a4",
+        "white": "#f8f8f2",
+        "black": "#191a21",
+        "yellow0": "#f1fa8c",
+        "yellow1": "#ffff80",
+        "orange0": "#ffb86c",
+        "orange1": "#ffc880",
+        "red0": "#ff5555",
+        "red1": "#ff6e6e",
+        "magenta0": "#ff79c6",
+        "magenta1": "#ff92d0",
+        "violet0": "#bd93f9",
+        "violet1": "#caa9fa",
+        "blue0": "#6272a4",
+        "blue1": "#8be9fd",
+        "cyan0": "#8be9fd",
+        "cyan1": "#a4ffff",
+        "green0": "#50fa7b",
+        "green1": "#69ff94"
+      }
+    }
+  }
+}

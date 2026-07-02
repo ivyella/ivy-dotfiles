@@ -1,0 +1,21 @@
+{
+	"colors": {
+		"AlternateBase": "{{bg1}}",
+		"Base": "{{bg0}}",
+		"BrightText": "{{red1}}",
+		"Button": "{{bg2}}",
+		"ButtonText": "{{fg0}}",
+		"Highlight": "{{accent0}}",
+		"HighlightedText": "{{fg0}}",
+		"Link": "{{accent1}}",
+		"Text": "{{fg0}}",
+		"ToolTipBase": "{{bg1}}",
+		"ToolTipText": "{{fg0}}",
+		"Window": "{{bg0}}",
+		"WindowText": "{{fg0}}",
+		"fadeAmount": 0.5,
+		"fadeColor": "{{bg0}}"
+	},
+	"name": "IvyShell",
+	"widgets": "Fusion"
+}

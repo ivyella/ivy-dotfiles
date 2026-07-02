@@ -1,0 +1,110 @@
+"ui.background" = {}
+"ui.text" = { fg = "fg0" }
+"ui.text.focus" = { fg = "fg0", modifiers = ["bold"] }
+"ui.text.inactive" = { fg = "fg2" }
+"ui.cursor" = { fg = "bg1", bg = "accent1" }
+"ui.cursor.primary" = { fg = "bg1", bg = "fg0" }
+"ui.cursor.match" = { fg = "bg1", bg = "yellow1" }
+"ui.cursor.insert" = { fg = "bg1", bg = "fg0" }
+"ui.cursor.select" = { fg = "bg1", bg = "accent0" }
+"ui.selection" = { bg = "bg3" }
+"ui.linenr" = { fg = "gray0" }
+"ui.linenr.selected" = { fg = "fg1" }
+"ui.statusline" = { fg = "fg1", bg = "bg0" }
+"ui.statusline.inactive" = { fg = "gray0", bg = "bg0" }
+"ui.statusline.normal" = { fg = "bg1", bg = "accent1" }
+"ui.statusline.insert" = { fg = "bg1", bg = "green1" }
+"ui.statusline.select" = { fg = "bg1", bg = "accent0" }
+"ui.statusline.separator" = { fg = "gray0" }
+"ui.bufferline" = { fg = "fg2", bg = "bg0" }
+"ui.bufferline.active" = { fg = "fg0", bg = "bg2" }
+"ui.popup" = { fg = "fg1", bg = "bg2" }
+"ui.window" = { fg = "gray0" }
+"ui.help" = { fg = "fg1", bg = "bg2" }
+"ui.menu" = { fg = "fg1", bg = "bg2" }
+"ui.menu.selected" = { fg = "fg0", bg = "bg3" }
+"ui.highlight" = { bg = "bg3", modifiers = ["bold"] }
+"ui.virtual.indent-guide" = { fg = "bg3" }
+"ui.virtual.ruler" = { bg = "bg2" }
+"ui.virtual.inlay-hint" = { fg = "gray0" }
+"ui.virtual.jump-label" = { fg = "accent1", modifiers = ["bold"] }
+
+"diagnostic.error" = { underline = { color = "red1", style = "curl" } }
+"diagnostic.warning" = { underline = { color = "yellow1", style = "curl" } }
+"diagnostic.info" = { underline = { color = "blue1", style = "curl" } }
+"diagnostic.hint" = { underline = { color = "cyan1", style = "curl" } }
+"diagnostic.unnecessary" = { modifiers = ["dim"] }
+
+"error" = { fg = "red1" }
+"warning" = { fg = "yellow1" }
+"info" = { fg = "blue1" }
+"hint" = { fg = "cyan1" }
+
+"diff.plus" = { fg = "green1" }
+"diff.minus" = { fg = "red1" }
+"diff.delta" = { fg = "blue1" }
+
+"comment" = { fg = "gray0", modifiers = ["italic"] }
+"constant" = { fg = "orange1" }
+"constant.numeric" = { fg = "orange1" }
+"constant.builtin" = { fg = "orange0" }
+"string" = { fg = "green1" }
+"string.special" = { fg = "cyan1" }
+"type" = { fg = "cyan0" }
+"type.builtin" = { fg = "cyan1" }
+"constructor" = { fg = "blue1" }
+"function" = { fg = "blue0" }
+"function.builtin" = { fg = "blue1" }
+"function.macro" = { fg = "violet1" }
+"keyword" = { fg = "violet0" }
+"keyword.control" = { fg = "magenta0" }
+"keyword.control.conditional" = { fg = "magenta0", modifiers = ["italic"] }
+"keyword.control.return" = { fg = "red0" }
+"operator" = { fg = "fg2" }
+"variable" = { fg = "fg0" }
+"variable.builtin" = { fg = "yellow0" }
+"variable.parameter" = { fg = "fg1", modifiers = ["italic"] }
+"attribute" = { fg = "yellow1" }
+"label" = { fg = "cyan1" }
+"namespace" = { fg = "blue1", modifiers = ["italic"] }
+"punctuation" = { fg = "fg2" }
+"punctuation.special" = { fg = "magenta0" }
+"tag" = { fg = "blue0" }
+
+"markup.heading" = { fg = "accent1", modifiers = ["bold"] }
+"markup.bold" = { modifiers = ["bold"] }
+"markup.italic" = { modifiers = ["italic"] }
+"markup.link.url" = { fg = "blue1", modifiers = ["underlined"] }
+"markup.link.text" = { fg = "cyan1" }
+"markup.raw" = { fg = "green1" }
+"markup.quote" = { fg = "fg2", modifiers = ["italic"] }
+
+[palette]
+bg0 = "{{bg0}}"
+bg1 = "{{bg1}}"
+bg2 = "{{bg2}}"
+bg3 = "{{bg3}}"
+bg4 = "{{bg4}}"
+fg0 = "{{fg0}}"
+fg1 = "{{fg1}}"
+fg2 = "{{fg2}}"
+accent0 = "{{accent0}}"
+accent1 = "{{accent1}}"
+gray0 = "{{gray0}}"
+gray1 = "{{gray1}}"
+yellow0 = "{{yellow0}}"
+yellow1 = "{{yellow1}}"
+orange0 = "{{orange0}}"
+orange1 = "{{orange1}}"
+red0 = "{{red0}}"
+red1 = "{{red1}}"
+magenta0 = "{{magenta0}}"
+magenta1 = "{{magenta1}}"
+violet0 = "{{violet0}}"
+violet1 = "{{violet1}}"
+blue0 = "{{blue0}}"
+blue1 = "{{blue1}}"
+cyan0 = "{{cyan0}}"
+cyan1 = "{{cyan1}}"
+green0 = "{{green0}}"
+green1 = "{{green1}}"

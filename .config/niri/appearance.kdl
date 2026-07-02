@@ -1,0 +1,98 @@
+// Appearance
+
+prefer-no-csd // who needs these?
+
+cursor {
+   xcursor-theme "Bibata-Modern-Classic"
+    xcursor-size 20
+}
+
+layout {
+    background-color "transparent" // to make the swww wallpaper window rule work
+    gaps 8
+	struts {
+        left 0
+        right 0
+        top 0
+        bottom 0
+    }
+    border { // Colors are set in colors.kdl
+        on
+        width 2
+    }
+    focus-ring {
+        off
+    }
+    default-column-width {} // Let programs decide
+
+}
+
+window-rule { // Window Corner Radius
+    geometry-corner-radius 0
+    clip-to-geometry true
+}
+
+animations {
+	overview-open-close {
+	   duration-ms 250
+	   curve "ease-out-cubic"
+	}
+	recent-windows-close {
+	   duration-ms 140
+	   curve "ease-out-cubic"
+	}
+	config-notification-open-close {
+	   duration-ms 160
+		curve "ease-out-cubic"
+	}
+	screenshot-ui-open {
+	   duration-ms 180
+	   curve "ease-out-expo"
+	}
+	window-open {
+	   duration-ms 200
+	   curve "ease-out-expo"
+	}
+	window-close {
+	   duration-ms 160
+	   curve "ease-out-cubic"
+	}
+	window-resize {
+	   duration-ms 180
+	   curve "ease-out-expo"
+	}
+	workspace-switch {
+	   spring damping-ratio=1.0 stiffness=800 epsilon=0.0001
+	}
+	horizontal-view-movement {
+	   spring damping-ratio=1.0 stiffness=800 epsilon=0.0001
+	}
+	window-movement {
+	   spring damping-ratio=1.0 stiffness=700 epsilon=0.0001
+	}
+}
+
+// Overview
+overview {
+    zoom 0.7
+    backdrop-color "transparent"
+    workspace-shadow {
+        off
+    }
+}
+
+layer-rule {
+    match namespace="^wallpaper$"
+    place-within-backdrop true
+}
+
+blur {
+    // off
+    passes 2
+    offset 5.0
+    noise 0.02
+    saturation 1.5
+}
+window-rule {
+    draw-border-with-background false
+}

@@ -1,0 +1,12 @@
+// Environment config
+
+// Startup / Daemons
+spawn-at-startup "xdg-desktop-portal-gnome"
+
+hotkey-overlay {
+    skip-at-startup
+}
+// I prefer having systemd services for the programs so that they run on background and can be restarted using systemctl
+
+// Screenshots
+screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
