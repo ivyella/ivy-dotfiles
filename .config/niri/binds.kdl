@@ -47,12 +47,9 @@ binds {
     Mod+V { toggle-window-floating; }
 
     Ctrl+F4 { screenshot; }
-    Mod+Shift+N { spawn "qs" "ipc" "call" "NotificationHistory" "toggle"; }
-    Mod+Shift+T { spawn "foot"; }
-    Mod+Shift+P { spawn "qs" "ipc" "call" "wallpaper" "toggle"; }
+    Mod+Shift+T { spawn "kitty"; }
     Mod+Shift+E { spawn "qs" "ipc" "call" "powerMenu" "toggle"; }
     Mod+R { spawn "qs" "ipc" "call" "launcher" "toggle"; }
     Mod+Slash { spawn "qs" "ipc" "call" "command" "toggle"; }
-    Mod+Shift+C { spawn "qs" "ipc" "call" "controlpanel" "toggle"; }
     Ctrl+Alt+Delete { quit; }
 }

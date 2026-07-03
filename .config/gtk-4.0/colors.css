@@ -4,27 +4,27 @@
  * Do not edit — changes will be overwritten on next theme switch
  */
 
-@define-color accent_color #988e75;
-@define-color accent_bg_color #988e75;
-@define-color accent_fg_color #171716;
+@define-color accent_color #e6b450;
+@define-color accent_bg_color #e6b450;
+@define-color accent_fg_color #0b0e14;
 
-@define-color window_bg_color #171716;
-@define-color window_fg_color #f2eadd;
+@define-color window_bg_color #0b0e14;
+@define-color window_fg_color #bfbdb6;
 
-@define-color headerbar_bg_color #171716;
-@define-color headerbar_fg_color #f2eadd;
+@define-color headerbar_bg_color #0b0e14;
+@define-color headerbar_fg_color #bfbdb6;
 
-@define-color popover_bg_color #1c1b1a;
-@define-color popover_fg_color #f2eadd;
+@define-color popover_bg_color #0f1419;
+@define-color popover_fg_color #bfbdb6;
 
-@define-color view_bg_color #171716;
-@define-color view_fg_color #f2eadd;
+@define-color view_bg_color #0b0e14;
+@define-color view_fg_color #bfbdb6;
 
-@define-color card_bg_color #1c1b1a;
-@define-color card_fg_color #f2eadd;
+@define-color card_bg_color #0f1419;
+@define-color card_fg_color #bfbdb6;
 
-@define-color sidebar_bg_color #171716;
-@define-color sidebar_fg_color #f2eadd;
-@define-color sidebar_border_color #47483b;
-@define-color sidebar_backdrop_color #171716;
+@define-color sidebar_bg_color #0b0e14;
+@define-color sidebar_fg_color #bfbdb6;
+@define-color sidebar_border_color #1c2129;
+@define-color sidebar_backdrop_color #0b0e14;
 

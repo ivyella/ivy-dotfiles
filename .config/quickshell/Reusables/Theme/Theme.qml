@@ -102,7 +102,7 @@ Singleton {
 
     function applyExternalThemes() {
         applyThemeProcess.running = false;
-        applyThemeProcess.command = ["bash", Quickshell.env("HOME") + "/ivyos/ivyshell/scripts/apply-theme.sh", getThemeSlug()];
+        applyThemeProcess.command = ["ivylink", "theme", "apply", getPackName(), Config.currentVariant];
         applyThemeProcess.running = true;
     }
 

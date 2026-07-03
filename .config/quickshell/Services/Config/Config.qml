@@ -10,9 +10,9 @@ Singleton {
     readonly property string configPath: Quickshell.env("HOME") + "/.config/ivyshell/config.json"
 
     // ── Theme ─────────────────────────────────────────────────────────────────
-    property string currentTheme: "file://" + Quickshell.env("HOME") + "/ivyos/ivyshell/themes/colors/IvyTheme.json"
+    property string currentTheme: "file://" + Quickshell.env("HOME") + "/ivy-dotfiles/.config/ivylink/themes/colors/IvyTheme.json"
     property string currentVariant: "default"
-    property string currentWallpaper: "file://" + Quickshell.env("HOME") + "/ivyos/ivyshell/themes/wallpapers/a_group_of_trees_with_green_leaves.jpg"
+    property string currentWallpaper: "file://" + Quickshell.env("HOME") + "/ivy-dotfiles/wallpapers/a_group_of_trees_with_green_leaves.jpg"
     property string fontMono: "JetBrains Mono"
     property real fontScale: 1.0
 

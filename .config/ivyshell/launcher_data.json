@@ -1,0 +1,31 @@
+{
+    "counts": {
+        "File Manager PCManFM": 9,
+        "Firefox": 12,
+        "Flatseal": 1,
+        "Foot": 15,
+        "Foot Client": 1,
+        "GTK Settings": 9,
+        "Helium Browser": 5,
+        "Heroic Games Launcher": 1,
+        "Krita": 4,
+        "Lutris": 1,
+        "Mozilla Firefox": 46,
+        "Obsidian": 1,
+        "Obsidian Wayland": 4,
+        "Prism Launcher": 28,
+        "Sober": 3,
+        "Spotify": 5,
+        "Steam": 38,
+        "Thunar File Manager": 26,
+        "Thunar Preferences": 1,
+        "VSCodium": 28,
+        "Vesktop": 1,
+        "Vesktop (bin)": 38,
+        "Volume Control": 1,
+        "kitty": 2,
+        "qBittorrent": 4
+    },
+    "pinned": [
+    ]
+}

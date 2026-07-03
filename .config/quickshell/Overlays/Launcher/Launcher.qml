@@ -394,7 +394,7 @@ PanelWindow {
                             packPath: filePath
                         }
                         model: FolderListModel {
-                            folder: "file://" + Quickshell.env("HOME") + "/.config/ivylink/themes/colors/"
+                            folder: "file://" + Quickshell.env("HOME") + "/ivy-dotfiles/.config/ivylink/themes/colors/"
                             nameFilters: ["*.json"]
                             showDirs: false
                             showFiles: true
@@ -460,7 +460,7 @@ PanelWindow {
                     }
                 }
                 model: FolderListModel {
-                    folder: "file://" + Quickshell.env("HOME") + "/ivyos/ivyshell/themes/wallpapers/"
+                    folder: "file://" + Quickshell.env("HOME") + "/ivy-dotfiles/wallpapers/"
                     nameFilters: ["*.png", "*.jpg", "*.jpeg"]
                 }
             }
